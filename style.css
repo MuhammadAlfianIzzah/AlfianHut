@@ -1,0 +1,13 @@
+.title {
+    font-family: 'NTR', sans-serif;
+    font-size: 29px;
+    padding-top: 10px;
+    color: azure;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+.title span#hut {
+    color: red;
+    text-shadow: 2px 2px 0 white;
+}
